@@ -7,7 +7,7 @@ I also added the spawn cords for the Time Lost Proto Drake.
 ## Files Needed
 * datascripts/creature/teleporter-chicken.ts
 * livescripts/teleporter/teleporter-chicken.ts
-* Register the livescript in livescripts/livescripts.ts
+* Register the livescript path and events in livescripts/livescripts.ts
 
 ## Notes: 
 Any friendly or neutral NPC (Training Dummy in major cities...) can have the teleporter attached to it. Just need to set the npcflag to 1.
